@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AdminTareas/static/css/main.6b08378d.css",
+    "main.js": "/AdminTareas/static/js/main.26cb78fa.js",
+    "static/media/Designer (1).jpeg": "/AdminTareas/static/media/Designer (1).e8213ef4061c61858e83.jpeg",
+    "index.html": "/AdminTareas/index.html",
+    "main.6b08378d.css.map": "/AdminTareas/static/css/main.6b08378d.css.map",
+    "main.26cb78fa.js.map": "/AdminTareas/static/js/main.26cb78fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b08378d.css",
+    "static/js/main.26cb78fa.js"
+  ]
+}
